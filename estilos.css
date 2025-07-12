@@ -1,0 +1,41 @@
+/*h1{ color:crimson;}*/
+
+p{
+  color:#C71585;
+}                                                  
+
+a{
+  text-decoration:none;
+}
+#caja1{
+  background-color:pink;
+  color:silver;
+  font-size:56px;
+}
+#caja2{
+  background-color:green;
+}
+
+.estilo1{3|1q 
+  color:green;
+  background-color:purple;
+}
+
+#AA23{
+  background-color:green;
+}
+
+#AA24{
+  background-color:pink;
+}
+
+.diseño{
+  background-color:yellow;
+  color:white;
+  font-size:36px;
+}
+
+h1.diseño{
+
+  background-color:red;
+}
